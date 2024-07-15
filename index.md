@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="./livepic.jpg" class="floatpic" width="360" height="480">
+<img src="./xueqiang.jpg" class="floatpic" width="360" height="480">
 
 My name is Xueqiang Han (Jhon Han, 韩雪强).
 
