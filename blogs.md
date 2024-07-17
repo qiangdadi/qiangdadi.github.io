@@ -7,5 +7,7 @@ title: Blogs
 ### Technical Blogs
 [Design Pattern (c++)](./blogs/designpattern-cpp/index.md)
 
+### Math
+
 ### Live
 
